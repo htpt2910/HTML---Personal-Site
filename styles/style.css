@@ -1,0 +1,23 @@
+body {
+    background-color:#F7DAD9;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 15px;
+    border-color: beige;
+    height: 30px;
+    width: 10%;
+    background-color: #F7DAD9;
+}
+h1 {
+    color: #E99497;
+    font-family:Courier New ;
+    font: italic;
+}
+h3 {
+    color: #E99497;
+}
+.avatar {
+    border-radius: 100%;
+}
